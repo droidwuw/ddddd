@@ -102,8 +102,14 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+<div align="center">
+  <h2>🐍 Snake Eating My Contributions 🐍</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DoonThousand/DoonThousand/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+  <img
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/DoonThousand/DoonThousand/output/github-contribution-grid-snake.svg"
+  />
+
+</div>
+
+<hr/>
