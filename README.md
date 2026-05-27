@@ -86,7 +86,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N1eTd5dTRrMXJmN3ZqY2Q2eXQ0M2I5b3F2MzBqZ2h3OHV0M3JzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="40"> Operating Systems
+## <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="35"> Operating Systems
 
 <p align="center">
 
