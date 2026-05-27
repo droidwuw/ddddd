@@ -86,7 +86,7 @@
 
 ---
 
-## <img src="https://media.tenor.com/images/0d5c5e8fcb6a7cb8e4f5e4b4a9c80c76/tenor.gif" width="40"> Operating Systems
+## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40"> Operating Systems
 
 <p align="center">
 
