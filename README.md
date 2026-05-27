@@ -86,7 +86,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40"> Operating Systems
+## <img src="https://raw.githubusercontent.com/DoonThousand/DoonThousand/main/assets/this-is-the-end.gif" width="40"> Operating Systems
 
 <p align="center">
 
