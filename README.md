@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px"> About me
+## 👨‍💻 About me
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px">
 
@@ -24,13 +24,14 @@
 - 🎓 I am a student at [KNUTE](https://knute.edu.ua/)
 - 🤖 I enjoy using AI to solve coding problems
 - 📚 Always learning new things
+- 🐍 Python Developer
 - 📫 Contact me on social networks below
 
-<br>
+<br><br>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70px"> Connect with me
+## 🌐 Connect with me
 
 <p align="center">  
   <a href="https://discord.com/">
@@ -48,7 +49,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50px"> Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -58,9 +59,10 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50px"> Software
+## 🛠 Software & Tools
 
 <p align="center">
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
@@ -68,13 +70,7 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
----
-
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50px"> Developer Tools
-
-<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
@@ -82,16 +78,29 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
   </a>
+
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Operating Systems
+## 💻 Operating System
 
 <p align="center">
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoonThousand&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoonThousand&theme=tokyonight"/>
 </p>
 
 ---
