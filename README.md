@@ -1,4 +1,3 @@
-```md id="l5i4wz"
 <h1 align="center">
   Hi, I'm DoonThousand
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -102,4 +101,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DoonThousand/DoonThousand/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
-```
