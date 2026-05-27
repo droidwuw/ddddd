@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70px"> Connect with me
+## 🌐 Connect with me
 
 <p align="center">  
   <a href="https://discord.com/">
